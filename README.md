@@ -6,3 +6,6 @@ Y+ calculation is fairly an easy task, yet it gets disturbing to do the tedious 
 This Matlab code is built to calculate the estimated first cell height from the free-stream conditions and the desired value of Y+,
 based on the skin-friction coefficient estimation of Hermann Schlichting (1979) (which works efficiently up to Reynolds numbers of
 10^9) for external flows and Churchill (1977) equation (which is valid for all flow regimes) for internal (pipe/duct) flows.
+Coded by: CANARD Engineering Services (PVT) Limited
+Islamabad, Pakistan.
+canardspk@gmail.com
