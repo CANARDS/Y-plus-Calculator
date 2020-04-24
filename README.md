@@ -10,4 +10,4 @@ some online calculators available but they have are based on old Prandtl (1925)'
 ranges of Reynolds numbers.
 This Matlab code is built to calculate the estimated first cell height from the free-stream conditions and the desired value of Y+,
 based on the skin-friction coefficient estimation of Hermann Schlichting (1979) (which works efficiently up to Reynolds numbers of
-10^9) for external flows.
+10^9) for external flows and Churchill (1977) equation (which is valid for all flow regimes) for internal (pipe/duct) flows.
